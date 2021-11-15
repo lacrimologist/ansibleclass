@@ -12,5 +12,3 @@
     lineinfile:
       path: /root/testfile.txt
       line: Ansible was here...
-      xczv
-      
